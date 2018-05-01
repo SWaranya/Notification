@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NOTIFICATION</string>
+
+    //
+    <string name="historyBut">HISTORY</string>
+    //
+    <string name="editBut">EDIT</string>
+    //
+    <string name="confirmBut">CONFIRM</string>
+    //
+
+    <string name="title_activity_history">HISTORY</string>
+    <string name="title_activity_edit">EDIT</string>
+
+</resources>
